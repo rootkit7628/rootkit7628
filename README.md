@@ -1,14 +1,15 @@
-<h2 align="center">:cyclone: Welcome Visitors | ようこそ訪問者 :cyclone:</h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rootkit7628&theme=react&show_icons=true&line_height=20&locale=fr&include_all_commits=true&count_private=true&card_width=460)
+<div class="border rounded-2 mb-2">
+  
+  <h2 align="center">:cyclone: Welcome Visitors | ようこそ訪問者 :cyclone:</h2>
+  
+  <img align='right' width=350 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/tools.png" >
+  <img src="https://github.com/rootkit7628/rootkit7628/blob/main/img/manjaro.png" width=450 >
+</div>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rootkit7628&theme=react&show_icons=true&line_height=20&locale=fr&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rootkit7628&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</br>
 
-<<<<<<< HEAD
-<img align='left' class="border rounded-2 mb-2" width=380 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/tools.png" >
-<img align='right' class="border rounded-2 mb-2" width=300 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/manjaro.png" >
-=======
-<img class="border rounded-2 mb-2" width=450 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/tools.png" >
-<img align='right' class="border rounded-2 mb-2" width=450 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/manjaro.png" >
 
->>>>>>> 0da4d89ade4070a93d451a2bf555fa74036a317d
+
+
