@@ -20,9 +20,9 @@
 <br>
 
 <p align=center>
-  <a href="#"><img margin-right=20 height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/linkedin.jpg"></a>
+  <a href="#"><img margin-right=20 height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/linkedin.png"></a>
   <a href="#"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/fb.png"></a>
   <a href="#"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/twinter.png"></a>
-  <a href="#"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/youtube.jpg"></a>
+  <a href="#"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/youtube.png"></a>
 </p>
 
