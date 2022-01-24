@@ -29,20 +29,18 @@
   <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
   
   <br/>
-  <br/>
 
 </div>
 
-<hr>      
 <p align=center>
   Fifandraisana sy Serasera
 </p>
-<br>
+
 
 <p align=center>
-  <a href="https://www.linkedin.com/in/arleme-johnson-885247177/"><img margin-right=20 height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/linkedin.png"></a>
-  <a href="https://www.facebook.com/arleme.scheck/"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/fb.png"></a>
-  <a href="https://twitter.com/ArlemeDev7"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/twinter.png"></a>
-  <a href="#"><img height=40 width=40 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/youtube.png"></a>
+  <a href="https://www.linkedin.com/in/arleme-jhn/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/in.png"></a>
+  <a href="https://www.facebook.com/arleme.scheck/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/fb.png"></a>
+  <a href="https://arleme.iteam-s.mg"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/iteams.png"></a>
+  <a href="https://stackoverflow.com/users/14732398/arleme"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/stack.png"></a>
 </p>
 
