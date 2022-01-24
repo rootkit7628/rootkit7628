@@ -1,5 +1,6 @@
 
-<div class="rounded-2 mb-2">
+<div class="rounded-2 mb-2" align="center">
+  <a href="https://arleme.iteam-s.mg"><img height=120 width=120 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/qrcode.png"></a>
   <h3 align="center">:diamond_shape_with_a_dot_inside: WELCOME ~ TONGASOA ~ ようこそ :diamond_shape_with_a_dot_inside:</h3>
 </div>
 
