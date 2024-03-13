@@ -42,7 +42,7 @@
 </div>
 
 <p align=center>
-  Please don't concact me unless you have money for me 😉
+  Pls don't contact me unless you have money for me 😉
 </p>
 
 
