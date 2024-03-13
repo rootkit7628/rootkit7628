@@ -17,11 +17,10 @@
 </br>
 </br>
 <p>
-
-<div>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=rootkit7628&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=3776AB&sideNums=F55F4E&dates=3776AB&currStreakNum=F55F4E&currStreakLabel=F55F4E&background=ffffff00&hide_border=true" alt="GitHub Stats" /> <br/><br/>
-  </p>
+<div  align="center">
+      <img width='170' src='https://github.com/rootkit7628/rootkit7628/blob/main/img/gitcat/octocat-1710333752795.png'/>
+      <img width='400' src="https://github-readme-streak-stats.herokuapp.com?user=rootkit7628&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=3776AB&sideNums=F55F4E&dates=3776AB&currStreakNum=F55F4E&currStreakLabel=F55F4E&background=ffffff00&hide_border=true" alt="GitHub Stats" />
+      <img width='170' src='https://github.com/rootkit7628/rootkit7628/blob/main/img/gitcat/octocat-1710333995218.png'/>
 </div>
 
 
