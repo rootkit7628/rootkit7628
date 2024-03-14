@@ -53,6 +53,8 @@
   <a href="https://www.facebook.com/arleme.scheck/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/facebook-f.svg"></a>
   <a href="https://arleme.me"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/link-solid.svg"></a>
   <a href="https://stackoverflow.com/users/14732398/arleme"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/stack-overflow.svg"></a>
+  <a href="https://twitter.com/_bmainty"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/x-twitter.svg"></a>
+  
 </p>
 
 <p align=center>
