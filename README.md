@@ -42,7 +42,7 @@
 </div>
 
 <p align=center>
-  Fifandraisana sy Serasera
+  Pls don't contact me unless you have money for me 😉
 </p>
 
 
@@ -51,4 +51,9 @@
   <a href="https://www.facebook.com/arleme.scheck/"><img height=35 width=35 src="img/social/facebook-f.svg"></a>
   <a href="https://arleme.me"><img height=35 width=35 src="img/social/link-solid.svg"></a>
   <a href="https://stackoverflow.com/users/14732398/arleme"><img height=35 width=35 src="img/social/stack-overflow.svg"></a>
+</p>
+
+<p align=center>
+  <br/>
+  <a href="https://holopin.io/@arleme"><img width="600" src="https://holopin.me/arleme" alt="Arleme Holopin BOARD"></a>
 </p>
