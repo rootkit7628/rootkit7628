@@ -42,7 +42,9 @@
 </div>
 
 <p align=center>
-  Pls don't contact me unless you have money for me 😉
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=13&pause=1000&color=F55F4E&repeat=false&random=false&width=435&lines=%E2%9C%A7+Don't+contact+me+unless+you+have+money+for+me++(%3E%E1%B4%97%E2%80%A2)+%E2%9C%A7" alt="Typing SVG" />
+  </a>
 </p>
 
 
@@ -51,6 +53,8 @@
   <a href="https://www.facebook.com/arleme.scheck/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/facebook-f.svg"></a>
   <a href="https://arleme.me"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/link-solid.svg"></a>
   <a href="https://stackoverflow.com/users/14732398/arleme"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/stack-overflow.svg"></a>
+  <a href="https://twitter.com/_bmainty"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/x-twitter.svg"></a>
+  
 </p>
 
 <p align=center>
