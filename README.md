@@ -60,4 +60,5 @@
 <p align=center>
   <br/>
   <a href="https://holopin.io/@arleme"><img width="600" src="https://holopin.me/arleme" alt="Arleme Holopin BOARD"></a>
+  <a href="https://app.daily.dev/bmainty"><img src="https://api.daily.dev/devcards/v2/BdKPNzz7jD1SDNEPm3jOV.png?r=lw8&type=wide" width="300" alt="Arlème Johnson's Dev Card"/></a>
 </p>
