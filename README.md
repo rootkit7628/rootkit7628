@@ -1,8 +1,3 @@
-
-<div class="rounded-2 mb-2" align="center">
-  <h3 align="center">:pushpin: 翻訳者の使用をやめて、この言語を学びましょう :pushpin:</h3>
-</div>
-
 <p align=center>
   <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=900&pause=1000&color=F55F4E&center=true&vCenter=true&random=true&width=435&lines=Arl%C3%A8me+J.+alias+rootkit7628" alt="Typing SVG" />
@@ -19,7 +14,6 @@
 <p>
 <div  align="center">
       <img width='170' src='https://github.com/rootkit7628/rootkit7628/blob/main/img/gitcat/octocat-1710333752795.png'/>
-      <img width='400' src="https://github-readme-streak-stats.herokuapp.com?user=rootkit7628&theme=leafy&date_format=j%20M%5B%20Y%5D&ring=3776AB&sideNums=F55F4E&dates=3776AB&currStreakNum=F55F4E&currStreakLabel=F55F4E&background=ffffff00&hide_border=true" alt="GitHub Stats" />
       <img width='170' src='https://github.com/rootkit7628/rootkit7628/blob/main/img/gitcat/octocat-1710333995218.png'/>
 </div>
 
