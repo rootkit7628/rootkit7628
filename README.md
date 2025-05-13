@@ -36,9 +36,9 @@
 </div>
 
 <p align=center>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=13&pause=1000&color=F55F4E&repeat=false&random=false&width=435&lines=%E2%9C%A7+Don't+contact+me+unless+you+have+money+for+me++(%3E%E1%B4%97%E2%80%A2)+%E2%9C%A7" alt="Typing SVG" />
-  </a>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30" alt="Party Blob"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=13&pause=1000&color=F55F4E&repeat=false&random=false&width=435&lines=%E2%9C%A7+Don't+contact+me+unless+you+have+money+for+me++(%3E%E1%B4%97%E2%80%A2)+%E2%9C%A7" alt="Typing SVG" /></a>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643516033/20573/kirby_jam.gif?1643516033" width="30" alt="Mew Party"/>
 </p>
 
 
