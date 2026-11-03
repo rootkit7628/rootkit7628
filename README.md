@@ -1,58 +1,64 @@
-<p align=center>
-  <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=900&pause=1000&color=F55F4E&center=true&vCenter=true&random=true&width=435&lines=Arl%C3%A8me+J.+alias+rootkit7628" alt="Typing SVG" />
-  </a>
+<a href="https://rootkit7628.github.io"><img src="img/banner.webp" width="100%" alt="Arlème Johnson, fullstack developer, AI and developer tooling. Python, FastAPI, Vue.js, Flutter, shipped from Linux. Antananarivo, Madagascar."></a>
+
+I build fullstack apps and tools that make developers faster, with AI where it actually helps.
+Python and FastAPI on the back end, Vue.js or Flutter on the front, Docker and GitHub Actions to
+ship, all from Linux in Antananarivo.
+
+**Right now:** building [Nirvix](https://rootkit7628.github.io/nirvix.html), an RPG-style life app
+where every finished quest levels up your character · going deeper into LLM fine-tuning ·
+practising kendo.
+
+### Selected work
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Nirvix**](https://rootkit7628.github.io/nirvix.html) | Life app as a role-playing game: quests, six stats, seven ranks. Local-first, 336 tests. | Flutter · SQLite |
+| [**Alandia**](https://github.com/rootkit7628/Alandia) | Madagascar's national parks: map, ratings and a forum. Hackathon 2020, rebuilt in 2026. | Expo · Flask |
+| [**FaceRECON**](https://github.com/rootkit7628/FaceRECON) | Face-recognition attendance kiosk for schools. Keeps embeddings, never photos. | OpenCV · Flask |
+| [**forum-orientation**](https://github.com/rootkit7628/forum-orientation) | Careers fair website: floor plan, job sheets, RIASEC orientation test. | Vue · PocketBase |
+| [**Ampalibe**](https://github.com/iTeam-S/Ampalibe) | Python framework for Messenger chatbots, built with the iTeam-S community. | Python |
+
+### Open source
+
+- [**wttr.in**](https://github.com/chubin/wttr.in): Malagasy translation of the weather service ([#654](https://github.com/chubin/wttr.in/pull/654), [#669](https://github.com/chubin/wttr.in/pull/669))
+- [**WebSearch**](https://github.com/iTeam-S/WebSearch): KML file search and a web-server version ([#11](https://github.com/iTeam-S/WebSearch/pull/11), [#14](https://github.com/iTeam-S/WebSearch/pull/14))
+- [**validator.js**](https://github.com/validatorjs/validator.js): Malagasy mobile numbers ([#1774](https://github.com/validatorjs/validator.js/pull/1774))
+- [**Mvola**](https://github.com/rivo2302/Mvola): continuous integration for the MVola payment SDK ([#6](https://github.com/rivo2302/Mvola/pull/6))
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-140F0D?style=flat-square&logo=python&logoColor=EE6A5E)
+![FastAPI](https://img.shields.io/badge/FastAPI-140F0D?style=flat-square&logo=fastapi&logoColor=EE6A5E)
+![Flask](https://img.shields.io/badge/Flask-140F0D?style=flat-square&logo=flask&logoColor=EE6A5E)
+![Vue.js](https://img.shields.io/badge/Vue.js-140F0D?style=flat-square&logo=vuedotjs&logoColor=EE6A5E)
+![TypeScript](https://img.shields.io/badge/TypeScript-140F0D?style=flat-square&logo=typescript&logoColor=EE6A5E)
+![Flutter](https://img.shields.io/badge/Flutter-140F0D?style=flat-square&logo=flutter&logoColor=EE6A5E)
+![Odoo](https://img.shields.io/badge/Odoo-140F0D?style=flat-square&logo=odoo&logoColor=EE6A5E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-140F0D?style=flat-square&logo=postgresql&logoColor=EE6A5E)
+![Docker](https://img.shields.io/badge/Docker-140F0D?style=flat-square&logo=docker&logoColor=EE6A5E)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-140F0D?style=flat-square&logo=githubactions&logoColor=EE6A5E)
+![Linux](https://img.shields.io/badge/Linux-140F0D?style=flat-square&logo=linux&logoColor=EE6A5E)
+![Claude Code](https://img.shields.io/badge/Claude_Code-140F0D?style=flat-square&logo=claude&logoColor=EE6A5E)
+
+### Recognition
+
+Hackathons: **1st** at ZahaGeek 2023 · **3rd** at Google DevFest 2021 · **1st** at MYBN 2021.
+
+Communities: iTeam-S (head), GDG Antananarivo, GDSC ESTI, Why Not Linux Madagascar, DjangoGirls,
+Makoto Japanese Club.
+
+### Find me
+
+[Portfolio](https://rootkit7628.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/arleme-jhn/) ·
+[X](https://x.com/_bmainty) ·
+[Stack Overflow](https://stackoverflow.com/users/14732398/arleme) ·
+[daily.dev](https://app.daily.dev/bmainty) ·
+[arleme.dev7@gmail.com](mailto:arleme.dev7@gmail.com)
+
 <p>
-
-<p align=center>  <strong>
-  <img alt='OpenSource' src='https://img.shields.io/badge/OPEN%20-SOURCE-blue?color=F55F4E&style=for-the-badge&logo=Open%20Source%20Initiative&logoColor=%23ffffff'>
-  <img alt='Watchers' src='https://img.shields.io/github/watchers/rootkit7628/rootkit7628?color=F55F4E&label=PROFIL%20VIEW&logo=Steelseries&logoColor=%23ffffff&style=for-the-badge'/>
-  <img alt='Stars' src='https://img.shields.io/github/stars/rootkit7628?color=F55F4E&label=KINTANA&logo=Apache%20Spark&logoColor=%23ffffff&style=for-the-badge'/>
-</strong> 
-</br>
-</br>
-<p>
-<div  align="center">
-      <img width='170' src='https://github.com/rootkit7628/rootkit7628/blob/main/img/gitcat/octocat-1710333752795.png'/>
-      <img width='170' src='https://github.com/rootkit7628/rootkit7628/blob/main/img/gitcat/octocat-1710333995218.png'/>
-</div>
-
-
-
-<p align='center'>
-  <img alt='DEV TO' src='https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white'/>
-  <img alt='Archlinux' src='https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge'/>
-  <img alt='JS' src='https://img.shields.io/badge/JS-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black'/>
-  <img alt='PHP' src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white'/>
-  <img alt='Python' src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
-  <img alt='Rust' src='https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white'/>
-  <img alt='Docker' src='https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white'/>
-  <img alt='Git' src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
-  
-  
-  
-  <br/>
-
-</div>
-
-<p align=center>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif?1643514525" width="30" alt="Party Blob"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=13&pause=1000&color=F55F4E&repeat=false&random=false&width=435&lines=%E2%9C%A7+Don't+contact+me+unless+you+have+money+for+me++(%3E%E1%B4%97%E2%80%A2)+%E2%9C%A7" alt="Typing SVG" /></a>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643516033/20573/kirby_jam.gif?1643516033" width="30" alt="Mew Party"/>
+<img src="https://streak-stats.demolab.com/?user=rootkit7628&background=140F0D&border=3A2620&stroke=3A2620&ring=C9362C&fire=EE6A5E&currStreakNum=F4EBE1&sideNums=F4EBE1&currStreakLabel=EE6A5E&sideLabels=D9C9B8&dates=8F7E70&border_radius=3&date_format=j%20M%5B%20Y%5D&disable_animations=true" height="150" alt="GitHub contribution streak">
+<a href="https://app.daily.dev/bmainty"><img src="https://api.daily.dev/devcards/v2/BdKPNzz7jD1SDNEPm3jOV.png?r=lw8&type=wide" height="150" alt="Arlème Johnson's daily.dev card"></a>
 </p>
 
-
-<p align=center>
-  <a href="https://www.linkedin.com/in/arleme-jhn/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/linkedin-in.svg"></a>
-  <a href="https://www.facebook.com/arleme.scheck/"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/facebook-f.svg"></a>
-  <a href="https://arleme.me"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/link-solid.svg"></a>
-  <a href="https://stackoverflow.com/users/14732398/arleme"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/stack-overflow.svg"></a>
-  <a href="https://twitter.com/_bmainty"><img height=35 width=35 src="https://github.com/rootkit7628/rootkit7628/blob/main/img/social/x-twitter.svg"></a>
-  
-</p>
-
-<p align=center>
-  <br/>
-  <a href="https://holopin.io/@arleme"><img width="600" src="https://holopin.me/arleme" alt="Arleme Holopin BOARD"></a>
-  <a href="https://app.daily.dev/bmainty"><img src="https://api.daily.dev/devcards/v2/BdKPNzz7jD1SDNEPm3jOV.png?r=lw8&type=wide" width="360" alt="Arlème Johnson's Dev Card"/></a>
-</p>
+<a href="https://holopin.io/@arleme"><img src="https://holopin.me/arleme" width="100%" alt="Arlème's Holopin badges"></a>
